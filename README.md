@@ -2,7 +2,7 @@
 Futuro analista e desenvolvedor de sistemas
 
 ## Um pouco sobre mim 👋 
-Faço faculdade de análise e desenvolvimento de sistemas pela UNISUAM, indo para o segundo período. Sou uma pessoa extramente calma e flexível na vida pessoal e profissional. Em meu tempo livre gosto de ler ou jogar video games. 
+Faço faculdade de análise e desenvolvimento de sistemas pela UNISUAM, indo para o terceiro período. Sou uma pessoa extramente calma e flexível na vida pessoal e profissional. Em meu tempo livre gosto de ler ou jogar video games. 
 
 ## Cursos 👨‍🎓
 1. Desenvolvimento em Python para análise de dados pela Data Science Academy</br>
